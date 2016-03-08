@@ -14,5 +14,9 @@ public class Driver {
     public static void main(String[] args) {
         new Frame().setVisible(true);
         System.out.println("ini program A star");
+        for (int i = 0; i < 10; i++) {
+            System.out.println(i);
+            
+        }
     }
 }
