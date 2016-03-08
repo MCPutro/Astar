@@ -11,5 +11,5 @@ package model;
  * @author Mu'ti C Putro
  */
 public class kumpulin {
-    
+    private int random;
 }
