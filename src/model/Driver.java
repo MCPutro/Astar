@@ -13,6 +13,6 @@ package model;
 public class Driver {
     public static void main(String[] args) {
         new Frame().setVisible(true);
-        
+        System.out.println("ini program A star");
     }
 }
